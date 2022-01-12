@@ -1,3 +1,3 @@
 # Hello This is Aadesh minz
 
-discription!
+discription: learning coding and devlopment.
